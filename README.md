@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <!--<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>--> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slo-ow&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slo-ow&layout=compact&theme=tokyonight&langs_count=6&hide=SCSS,Objective-C,Mustache,Shell,Starlark,Ruby)](https://github.com/anuraghazra/github-readme-stats)
  
 
 ![slo_Ow GitHub stats](https://github-readme-stats.vercel.app/api?username=slo-ow&show_icons=true&theme=tokyonight)
