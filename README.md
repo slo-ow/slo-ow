@@ -1,14 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0058aa&height=150&section=header&text=&fontSize=90)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slo-ow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slo-ow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR1cDh5MmtiMTUybHI0bnB1em05OXhta3h2eDNtcG1scG9jankwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif"  />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDY5YWFlYnA2dW9vbnR6eGdwZ3NjNjdjOWZndHRidjNldnFlb21pcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCBP02FjuB6xFdfwkY/giphy.gif"  />
 </div>
 
 ###
@@ -19,7 +12,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🧑🏻‍💻  About Me</h3>
 
 ###
 
@@ -51,6 +44,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slo-ow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slo-ow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
