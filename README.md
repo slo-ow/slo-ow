@@ -12,11 +12,11 @@
 
 ###
 
-<h3 align="left">🧑🏻‍💻  About Me</h3>
+<h3 align="left">🔭 About Me</h3>
 
 ###
 
-<p align="left">I'm Mun from South Korea.<br><br>- 🔭 I’m working in Tokyo now.<br>- 📚 I'm currently learning AWS&Google Cloud<br>- ⚡ In my free time I Studuy or Hangout.</p>
+<p align="left">I'm Mun from South Korea<br><br>- 🧑🏻‍💻 I’m working in Tokyo now<br>- 📚 I'm currently learning AWS&Google Cloud<br>- ⚡ In my free time I Study or Hangout.</p>
 
 ###
 
